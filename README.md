@@ -1,7 +1,7 @@
 
 # CMSC472 Final Project: FULL_CAPACITY_MODEL_BERT
 
-This repository contains the final project for CMSC472, which investigates BERT-based models for emotion classification in text. The project explores various preprocessing techniques, model fine-tuning strategies, and performance evaluations using a dataset of emotion-labeled text entries.
+This repository contains the final project for CMSC472, which investigates BERT-based models for fake news classification. The project explores various preprocessing techniques, model fine-tuning strategies, and performance evaluations using a dataset of news entries.
 
 ## 📂 Files
 
